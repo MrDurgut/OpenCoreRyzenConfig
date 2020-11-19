@@ -1,5 +1,5 @@
 # OpenCoreRyzenConfig #
-
+#
 Motherboard: A320M-S2H
 Processor: Ryzen 3 1200
 Video Card: Rx570
